@@ -1,0 +1,11 @@
+student_id,name,gender,attendance_percent,study_hours,score
+S001,Ada, Female,85,12,78
+S002,John,Male,90,15,88
+S003,Mary,Female,,8,65
+S004,Peter,Male,75,5,55
+S005,Ada, Female,85,12,78
+S006,Grace,FEMALE,105,10,72
+S007,David,Male,60,,48
+S008,Fatima,Female,92,20,95
+S009,Samuel,Male,80,7,abc
+S010,Linda,Female,88,11,81

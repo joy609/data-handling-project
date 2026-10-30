@@ -1,0 +1,7 @@
+column,data_type,missing_values,unique_values
+student_id,str,0,10
+name,str,0,9
+gender,str,0,3
+attendance_percent,float64,1,8
+study_hours,float64,1,8
+score,str,0,9
